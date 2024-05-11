@@ -1,4 +1,7 @@
-### Hi there 👋
+
+I'm currently working on data science, machine learning, and differential geometry. PyTorch is my library of choice. I like generative algorithms and reinforcement learning.
+
+[My website](http://sambrunacini.com/)
 
 <!--
 **sam-lb/sam-lb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
